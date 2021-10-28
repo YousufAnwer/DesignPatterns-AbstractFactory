@@ -1,0 +1,32 @@
+F:\DesignPatterns\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.exe
+F:\DesignPatterns\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.deps.json
+F:\DesignPatterns\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.runtimeconfig.json
+F:\DesignPatterns\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.runtimeconfig.dev.json
+F:\DesignPatterns\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.dll
+F:\DesignPatterns\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\ref\AbstractFactoryPattern.dll
+F:\DesignPatterns\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.pdb
+F:\DesignPatterns\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.csprojAssemblyReference.cache
+F:\DesignPatterns\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\DesignPatterns\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.AssemblyInfoInputs.cache
+F:\DesignPatterns\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.AssemblyInfo.cs
+F:\DesignPatterns\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+F:\DesignPatterns\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.dll
+F:\DesignPatterns\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\ref\AbstractFactoryPattern.dll
+F:\DesignPatterns\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.pdb
+F:\DesignPatterns\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.genruntimeconfig.cache
+E:\Github repos\DesignPatterns-AbstractFactory\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.exe
+E:\Github repos\DesignPatterns-AbstractFactory\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.deps.json
+E:\Github repos\DesignPatterns-AbstractFactory\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.runtimeconfig.json
+E:\Github repos\DesignPatterns-AbstractFactory\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.runtimeconfig.dev.json
+E:\Github repos\DesignPatterns-AbstractFactory\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.dll
+E:\Github repos\DesignPatterns-AbstractFactory\AbstractFactoryPattern\bin\Debug\net5.0\ref\AbstractFactoryPattern.dll
+E:\Github repos\DesignPatterns-AbstractFactory\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.pdb
+E:\Github repos\DesignPatterns-AbstractFactory\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.csprojAssemblyReference.cache
+E:\Github repos\DesignPatterns-AbstractFactory\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github repos\DesignPatterns-AbstractFactory\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.AssemblyInfoInputs.cache
+E:\Github repos\DesignPatterns-AbstractFactory\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.AssemblyInfo.cs
+E:\Github repos\DesignPatterns-AbstractFactory\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+E:\Github repos\DesignPatterns-AbstractFactory\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.dll
+E:\Github repos\DesignPatterns-AbstractFactory\AbstractFactoryPattern\obj\Debug\net5.0\ref\AbstractFactoryPattern.dll
+E:\Github repos\DesignPatterns-AbstractFactory\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.pdb
+E:\Github repos\DesignPatterns-AbstractFactory\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.genruntimeconfig.cache
